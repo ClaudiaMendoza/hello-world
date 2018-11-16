@@ -1,6 +1,3 @@
 # hello-world
 
-Claudia!
-
-Hello there, it's claudia.
-I just ate a banana.
+I'm Claudia and I am from Lawrence Indiana
