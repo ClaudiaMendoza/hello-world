@@ -1,3 +1,3 @@
 # hello-world
 
-I live in Lawrence Indiana that is twenty minutes away
+I'm Claudia and I am from Lawrence Indiana
